@@ -10,7 +10,7 @@ This demo project is designed to showcase the use of Spring Security in a Java-b
 1. Clone the repository to your local machine using git clone git@github.com:phanikiranthaticharla/jwt-demo.git
 2. Open the project in your preferred IDE
 3. Run the Maven command mvn clean install to download the dependencies
-4. Run the application using the IDE or using the Maven command mvn spring-boot:run
+4. Run the application using the IDE or using the Maven command `mvn spring-boot:run`
 5. Access the application in your web browser at http://localhost:8080
 # Features
 1. Login functionality
